@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hey there, I'm Lola 👋
 
+A informatics student.
 
-![margaretalola github stats](https://github-readme-stats.vercel.app/api?username=margaretalola&show_icons=true&theme=light&show_owner=true&text_color=11d14a&icon_color=1137d1&title_color=1137d1)
+<a target="_blank">
+        <img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=margaretalola&theme=dracula&show_icons=true&layout=compact" />
+<a/>
