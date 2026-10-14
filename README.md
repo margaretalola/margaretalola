@@ -38,7 +38,7 @@
   <img src="https://cdn.simpleicons.org/plotly/3F4F75" width="40" height="40" alt="Plotly" />
   <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/doc/_static/logo2.svg" width="80" height="40" alt="Matplotlib" />
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" height="40" alt="Seaborn" />
-  <img src="https://cdn.simpleicons.org/googlelooker/4285F4" width="40" height="40" alt="Looker" />
+  <img src="https://cdn.brandfetch.io/id7O2o5v4b/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="80" height="40" alt="Looker" />
   <img src="https://cdn.simpleicons.org/metabase/509EE3" width="40" height="40" alt="Metabase" />
 </p>
 ### GitHub Stats
