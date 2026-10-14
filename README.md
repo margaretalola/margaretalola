@@ -6,8 +6,6 @@
 - 🌱 I'm currently exploring **Machine Learning, AI, and DevOps**
 - 📊 I enjoy turning data into meaningful insights and business decisions
 - 💬 Ask me about **Python, SQL, Data Analytics, and Machine Learning**
-- 🌐 Check out my [Portfolio](https://margaretalola-portfolio.vercel.app/)
-- 📫 Reach me at **margaretalolalilulita@gmail.com**
 
 ### Connect with me
 
