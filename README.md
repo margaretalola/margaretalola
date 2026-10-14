@@ -27,7 +27,7 @@
 <p align="left">
   <img src="https://cdn.simpleicons.org/numpy/013243" width="40" height="40" alt="NumPy" />
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="40" height="40" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/XGBoost-Machine%20Learning-EC6B23?style=flat-square&logoColor=white" height="28" alt="XGBoost" />
+  <img src="[https://img.shields.io/badge/XGBoost-Machine%20Learning-EC6B23?style=flat-square&logoColor=white](https://xgboost.ai/images/logo/xgboost-logo.png)" height="28" alt="XGBoost" />
   <img src="https://cdn.simpleicons.org/mlflow/0194E2" width="40" height="40" alt="MLflow" />
   <img src="https://cdn.simpleicons.org/nvidia/76B900" width="40" height="40" alt="NVIDIA TAO" />
 </p>
