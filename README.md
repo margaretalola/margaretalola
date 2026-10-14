@@ -27,7 +27,7 @@
 <p align="left">
   <img src="https://cdn.simpleicons.org/numpy/013243" width="40" height="40" alt="NumPy" />
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="40" height="40" alt="scikit-learn" />
-  <img src="https://cdn.simpleicons.org/xgboost/EC6B23" width="40" height="40" alt="XGBoost" />
+  <img src="https://raw.githubusercontent.com/dmlc/xgboost/master/doc/logo/xgboost-logo.png" width="80" height="40" alt="XGBoost" />
   <img src="https://cdn.simpleicons.org/mlflow/0194E2" width="40" height="40" alt="MLflow" />
   <img src="https://cdn.simpleicons.org/nvidia/76B900" width="40" height="40" alt="NVIDIA TAO" />
 </p>
@@ -36,10 +36,9 @@
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/plotly/3F4F75" width="40" height="40" alt="Plotly" />
-  <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="40" height="40" alt="Matplotlib" />
+  <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/doc/_static/logo2.svg" width="80" height="40" alt="Matplotlib" />
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" height="40" alt="Seaborn" />
 </p>
-
 ### GitHub Stats
 
 <p>
