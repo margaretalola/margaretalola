@@ -16,10 +16,19 @@
 
 ### Languages and Tools
 
+### Languages and Tools
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,kotlin,flutter,nodejs,nextjs,react,go,docker,git,github" alt="Python, MySQL, PostgreSQL, Kotlin, Flutter, Node.js, Golang, Next.js, React, Docker, Git, GitHub" />
-  <img src="https://cdn.simpleicons.org/lit/324FFF" width="48" height="48" alt="Lit" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,kotlin,flutter,nodejs,nextjs,react,docker,git,github" alt="Python, MySQL, PostgreSQL, Kotlin, Flutter, Node.js, Next.js, React, Docker, Git, GitHub" />
+  <img src="https://cdn.simpleicons.org/mlflow/0194E2" width="40" height="40" alt="MLflow" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" width="40" height="40" alt="NumPy" />
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="40" height="40" alt="scikit-learn" />
+  <img src="https://cdn.simpleicons.org/xgboost/EC6B23" width="40" height="40" alt="XGBoost" />
+  <img src="https://cdn.simpleicons.org/matplotlib/11557C" width="40" height="40" alt="Matplotlib" />
+  <img src="https://cdn.simpleicons.org/seaborn/4C72B0" width="40" height="40" alt="Seaborn" />
+  <img src="https://cdn.simpleicons.org/nvidia/76B900" width="40" height="40" alt="NVIDIA TAO" />
 </p>
+
 
 ### GitHub Stats
 
