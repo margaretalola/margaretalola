@@ -27,7 +27,7 @@
 <p align="left">
   <img src="https://cdn.simpleicons.org/numpy/013243" width="40" height="40" alt="NumPy" />
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="40" height="40" alt="scikit-learn" />
-  <img src="https://raw.githubusercontent.com/dmlc/xgboost/master/doc/logo/xgboost-logo.png" width="80" height="40" alt="XGBoost" />
+  <img src="https://raw.githubusercontent.com/dmlc/xgboost/master/doc/logo/xgboost-logo.svg" width="80" height="40" alt="XGBoost" />
   <img src="https://cdn.simpleicons.org/mlflow/0194E2" width="40" height="40" alt="MLflow" />
   <img src="https://cdn.simpleicons.org/nvidia/76B900" width="40" height="40" alt="NVIDIA TAO" />
 </p>
