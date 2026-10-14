@@ -42,6 +42,7 @@
   <img src="https://cdn.simpleicons.org/metabase/509EE3" width="40" height="40" alt="Metabase" />
 </p>
 
+### Github Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=margaretalola&theme=dracula&show_icons=true&layout=compact" alt="Top Languages" />
 </p>
