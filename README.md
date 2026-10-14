@@ -19,7 +19,7 @@
 **Programming & Development**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,kotlin,flutter,nodejs,nextjs,react,lit,docker,git,github" height="40" alt="Python, MySQL, PostgreSQL, Kotlin, Flutter, Node.js, Next.js, React, Lit, Docker, Git, GitHub" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,kotlin,flutter,nodejs,nextjs,react" height="40" alt="Python, MySQL, PostgreSQL, Kotlin, Flutter, Node.js, Next.js, React, Lit" />
 </p>
 
 **Data Science & Machine Learning**
