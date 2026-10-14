@@ -25,21 +25,20 @@
 **Data Science & Machine Learning**
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="NumPy" />
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40" alt="scikit-learn" />
-  <img src="https://cdn.simpleicons.org/xgboost/EC6B23" height="40" alt="XGBoost" />
-  <img src="https://cdn.simpleicons.org/mlflow/0194E2" height="40" alt="MLflow" />
-  <img src="https://cdn.simpleicons.org/nvidia/76B900" height="40" alt="NVIDIA TAO" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" width="40" height="40" alt="NumPy" />
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="40" height="40" alt="scikit-learn" />
+  <img src="https://cdn.simpleicons.org/xgboost/EC6B23" width="40" height="40" alt="XGBoost" />
+  <img src="https://cdn.simpleicons.org/mlflow/0194E2" width="40" height="40" alt="MLflow" />
+  <img src="https://cdn.simpleicons.org/nvidia/76B900" width="40" height="40" alt="NVIDIA TAO" />
 </p>
 
 **Data Visualization**
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/plotly/3F4F75" height="40" alt="Plotly" />
-  <img src="https://cdn.simpleicons.org/matplotlib/11557C" height="40" alt="Matplotlib" />
-  <img src="https://cdn.simpleicons.org/seaborn/4C72B0" height="40" alt="Seaborn" />
+  <img src="https://cdn.simpleicons.org/plotly/3F4F75" width="40" height="40" alt="Plotly" />
+  <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="40" height="40" alt="Matplotlib" />
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" height="40" alt="Seaborn" />
 </p>
-
 
 ### GitHub Stats
 
